@@ -20,3 +20,10 @@ Updated BDF files (see [Process](#process)) are in `Updated_BDFs/`.
 The files in `Updated_BDFs/` were amended to include lines explicitly describing `pixel_size`, `point_size`, and resolution. This makes them interpretable by FontForge, from which SFD-format bitmaps were generated. These SFDs were fed through [BitsNPicas](https://github.com/kreativekorp/bitsnpicas) to generate vector fonts. FontForge was then used again to combine those vectored fonts with their bitmap strikes. 
 
 Since the bitmap strikes for 9-14px and 16-18px are substantially different, they are presented here as different weights of the Ohlfs font family.
+
+## Bibliography
+
+https://worldwideweb.cern.ch/typography/
+
+https://github.com/johnsonjh/NeXTDPS
+
